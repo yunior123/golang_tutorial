@@ -26,3 +26,5 @@ func main() {
    // messages to the console.
    fmt.Println(messages)
 }
+
+// sudo rm -rf /usr/local/go
